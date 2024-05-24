@@ -24,11 +24,7 @@ This repository is dedicated to my journey in learning and mastering cybersecuri
 
 ## Certifications
 
-Here are some of the certifications I've achieved to enhance my knowledge and credibility in the field of cybersecurity:
-### ISC(2)<br>
-<div>
-    <img src="https://img.shields.io/badge/CISSP-Certified%20Information%20Systems%20Security%20Professional-blue" /><br><br>
-</div>
+Here are some of the certifications I've achieved to enhance my knowledge and credibility in the field of cybersecurity: <br>
 ### CompTIA<br>
 <div>
   <img src="https://img.shields.io/badge/Sec%2B-Security%2B-red"/>
@@ -38,6 +34,13 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
   <img src="https://img.shields.io/badge/Net%2B-Network%2B-red"/>
   <img src="https://img.shields.io/badge/A%2B-IT%20Technician%2B-red"/>
 </div>
+
+### ISC(2)<br>
+<div>
+    <img src="https://img.shields.io/badge/CISSP-Certified%20Information%20Systems%20Security%20Professional-blue" /><br><br>
+</div>
+
+
 
 ## Skills and Associated Projects
 
