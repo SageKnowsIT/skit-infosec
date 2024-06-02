@@ -47,7 +47,7 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 |-----------------------|--------------------------------------------|
 | Vulnerability Scanning| SubDomain Enumerator |
 | Network Security      | Upcoming Project (e.g., Secure Communication) |
-| Python Programming    | Upcoming Project (e.g., Secure Communication) |
+| Python Programming    | Base64 Decoder |
 | Traffic Analysis      | Upcoming Project (e.g., Secure Communication) |
 | Ethical Hacking       | Upcoming Project (e.g., Secure Communication) |
 | Penetration Testing   | Upcoming Project (e.g., Secure Communication) |
