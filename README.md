@@ -41,12 +41,11 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 </div>
 
 
-
 ## Skills and Associated Projects
 
 | Skills                | Associated Projects                        |
 |-----------------------|--------------------------------------------|
-| Vulnerability Scanning| Upcoming Project (e.g., Secure Communication) |
+| Vulnerability Scanning| SubDomain Enumerator |
 | Network Security      | Upcoming Project (e.g., Secure Communication) |
 | Python Programming    | Upcoming Project (e.g., Secure Communication) |
 | Traffic Analysis      | Upcoming Project (e.g., Secure Communication) |
@@ -102,6 +101,19 @@ A simple vulnerability scanner that identifies security weaknesses in web applic
 
 # Contributing
 TBD
+
+## Support
+
+If you find this project helpful, you can support it by making a donation.
+
+## Support
+
+If you find this project helpful, you can support it by making a donation.
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=GLWXX9PDKAJ6G)
+
+
+
 # Contact
 If you have any questions or feedback, feel free to contact me at gitprojects@sagescomputerrepair.com.
 
