@@ -7,6 +7,7 @@ Welcome to my Cybersecurity Learning Repository! This repository contains variou
 
 - [Introduction](#introduction)
 - [Certifications](#certifications)
+- [YouTube](#my-youtube-videos)
 - [Skills and Associated Projects](#skills-and-associated-projects)
 - [Projects](#projects)
   - [Project 1: Vulnerability Scanner](#project-1-vulnerability-scanner)
@@ -40,7 +41,7 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
     <img src="https://img.shields.io/badge/CISSP-Certified%20Information%20Systems%20Security%20Professional-blue" /><br><br>
 </div>
 
-## Youtube Videos
+## My Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [CompTIA Sec+ Quiz #001](https://www.youtube.com/watch?v=AAywf25jEcM)
 - [My Longest Hearthstone Battlegrounds Match Ever?!](https://www.youtube.com/watch?v=q8E4uGI-OPM)
