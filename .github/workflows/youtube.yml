@@ -1,4 +1,4 @@
-name: Latest Youtube Video
+name: Youtube Video
 on:
   Schedule:
     - cron: '0 * * * *'
