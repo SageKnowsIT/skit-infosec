@@ -1,15 +1,15 @@
 name: Youtube Video
 on:
-  Schedule:
+  schedule: # Use lowercase here
     - cron: '0 * * * *'
-  workflow dispatch:
+  workflow_dispatch: # Make sure this is properly aligned and does not have a colon after 'dispatch'
 
 jobs: 
   youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: action/checkout@v2
+      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
