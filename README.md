@@ -42,6 +42,11 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 
 ## Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CompTIA Sec+ Quiz #001](https://www.youtube.com/watch?v=AAywf25jEcM)
+- [My Longest Hearthstone Battlegrounds Match Ever?!](https://www.youtube.com/watch?v=q8E4uGI-OPM)
+- [AI Made My Headshot… And It Went Horribly Wrong! 😱](https://www.youtube.com/watch?v=Ehs_8zKMdNM)
+- [CompTIA CySA+ Quiz #001](https://www.youtube.com/watch?v=cbVQJb2HhhE)
+- [Cybersecurity Awareness Month - Administrative Security Controls](https://www.youtube.com/watch?v=ABrXBtDepmU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## Skills and Associated Projects
