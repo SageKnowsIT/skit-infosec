@@ -44,7 +44,7 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 
 ## Latest Blog Post
 <!-- SKIT-BLOG:START -->
-<!-- SKIT-BLOG:START -->
+<!-- SKIT-BLOG:END -->
 
 ## Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
