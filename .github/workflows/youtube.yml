@@ -18,12 +18,12 @@ jobs:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ2qC60hPm0lIyhuj9ay04A"
           
-      - name: Push changes back to GitHub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Updated with the latest YouTube videos"
+          git diff --cached --quiet || git commit -m "Updated with the latest YouTube videos"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
