@@ -40,6 +40,9 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
     <img src="https://img.shields.io/badge/CISSP-Certified%20Information%20Systems%20Security%20Professional-blue" /><br><br>
 </div>
 
+## Youtube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## Skills and Associated Projects
 
