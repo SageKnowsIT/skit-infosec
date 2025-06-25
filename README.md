@@ -44,11 +44,11 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 
 ## Latest Blog Post
 <!-- SKIT-BLOG:START -->
+- [Delete Me Not: How One API Call Could Wipe Accounts Clean](https://www.sageknowsit.com/delete-me-not-how-one-api-call-could-wipe-accounts-clean/)
 - [Cybersecurity Strategies for YouTube Content Creators](https://www.sageknowsit.com/cybersecurity-strategies-for-youtube-content-creators/)
 - [Automate Your Cover Letter with ChatGPT and Google Docs: A Step-by-Step Guide](https://www.sageknowsit.com/automate-cover-letter-chatgpt-google-docs-guide/)
 - [AI Security Realities: Rethinking PII as the Sole Risk Indicator](https://www.sageknowsit.com/ai-security-realities-rethinking-pii-as-the-sole-indicator/)
 - [10 Ways to Improve Your Math Skills for Cybersecurity](https://www.sageknowsit.com/10-ways-to-improve-your-math-skills-for-cybersecurity/)
-- [The Intersection of Math and Cybersecurity](https://www.sageknowsit.com/the-intersection-of-math-and-cybersecurity/)
 <!-- SKIT-BLOG:END -->
 
 ## Latest Youtube Videos
