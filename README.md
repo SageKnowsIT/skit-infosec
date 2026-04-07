@@ -54,7 +54,7 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 ## Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 1](https://www.youtube.com/watch?v=cRKWXCqb_go)
-- [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 1](https://www.youtube.com/watch?v=hRgM6K0q7Eo)
+- [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 2](https://www.youtube.com/watch?v=hRgM6K0q7Eo)
 - [CompTIA Sec+ Quiz #001](https://www.youtube.com/watch?v=AAywf25jEcM)
 - [My Longest Hearthstone Battlegrounds Match Ever?!](https://www.youtube.com/watch?v=q8E4uGI-OPM)
 - [AI Made My Headshot… And It Went Horribly Wrong! 😱](https://www.youtube.com/watch?v=Ehs_8zKMdNM)
