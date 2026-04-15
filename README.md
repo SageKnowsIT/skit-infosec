@@ -53,7 +53,7 @@ Here are some of the certifications I've achieved to enhance my knowledge and cr
 
 ## Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 4](https://www.youtube.com/watch?v=2D-iXWzj3b8)
+- [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 5](https://www.youtube.com/watch?v=2D-iXWzj3b8)
 - [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 4](https://www.youtube.com/watch?v=442cLG1of4U)
 - [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 3](https://www.youtube.com/watch?v=pSLnBERpnOc)
 - [Engineering an Autonomous Trading System | Live Operations Dashboard | Python Quant Bot | Episode 2](https://www.youtube.com/watch?v=hRgM6K0q7Eo)
