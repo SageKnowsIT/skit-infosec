@@ -15,8 +15,8 @@ jobs:
       - name: Update README with latest YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with: 
-          comment_tag_name: "SKIT-BLOG"
-          feed_list: "https://www.sageknowsit.com/feed/"
+          comment_tag_name: "ASU-BLOG"
+          feed_list: "https://www.attacksurfaceunknown.com/feed/"
           
       - name: Commit and push changes
         run: |
